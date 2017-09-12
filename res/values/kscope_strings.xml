@@ -213,4 +213,11 @@
     <string name="ringer_mute_speaker_media_title">Mute media volume on silent or vibrate</string>
     <string name="ringer_mute_speaker_media_summary">Mute media volume when ringer mode is set to silent or vibrate. This affect speaker only</string>
 
+    <!-- Network traffic -->
+    <string name="network_traffic_title">Network traffic</string>
+    <string name="network_traffic_summary">Enable or disable network traffic</string>
+    <string name="network_traffic_state_title">Enable "Network traffic"</string>
+    <string name="network_options_title">Options</string>
+    <string name="network_traffic_autohide_title">Hide network traffic is inactive</string>
+    <string name="network_traffic_autohide_summary">Hide when network traffic is below 1KB/s</string>
 </resources>
